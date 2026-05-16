@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="https://github.com/SebastianTorresDev">
-  <img src="https://github.com/SebastianTorresDev.png?size=180" width="135" alt="Sebastian Torres GitHub avatar" />
+<a href="https://github.com/SebastianVegaDev">
+  <img src="https://github.com/SebastianVegaDev.png?size=180" width="135" alt="Sebastian Torres GitHub avatar" />
 </a>
 
 <br/>
@@ -16,8 +16,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SebastianTorresDev">
-  <img src="https://img.shields.io/badge/GitHub-SebastianTorresDev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+<a href="https://github.com/SebastianVegaDev">
+  <img src="https://img.shields.io/badge/GitHub-SebastianVegaDev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 <a href="https://www.linkedin.com/in/sebastian-torres-vega-258522393">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SebastianTorresDev&label=Profile%20views&color=C08457&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=SebastianVegaDev&label=Profile%20views&color=C08457&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-111827?style=for-the-badge" alt="Focus Full Stack Development" />
 <img src="https://img.shields.io/badge/Status-Learning%20and%20Building-1f2937?style=for-the-badge" alt="Status Learning and Building" />
 
@@ -104,7 +104,7 @@ I am a **Systems Engineering student from Peru** focused on building useful full
         <a href="https://manasiness.tech/">
           <img src="https://img.shields.io/badge/Visit%20Website-C08457?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Manasiness website" />
         </a>
-        <a href="https://github.com/SebastianTorresDev/Manasiness">
+        <a href="https://github.com/SebastianVegaDev/Manasiness">
           <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Manasiness repository" />
         </a>
       </p>
@@ -118,7 +118,7 @@ I am a **Systems Engineering student from Peru** focused on building useful full
         <strong>Status:</strong> In development.
       </p>
       <p>
-        <a href="https://github.com/SebastianTorresDev/UniChat">
+        <a href="https://github.com/SebastianVegaDev/UniChat">
           <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View UniChat repository" />
         </a>
       </p>
@@ -132,13 +132,13 @@ I am a **Systems Engineering student from Peru** focused on building useful full
 
 <div align="center">
 
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianTorresDev&theme=tokyonight" alt="Sebastian Torres GitHub profile summary" />
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianVegaDev&theme=tokyonight" alt="Sebastian Torres GitHub profile summary" />
 
 <br/>
 <br/>
 
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SebastianTorresDev&theme=tokyonight" alt="Sebastian Torres GitHub stats" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SebastianTorresDev&theme=tokyonight" alt="Sebastian Torres repositories per language" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SebastianVegaDev&theme=tokyonight" alt="Sebastian Torres GitHub stats" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SebastianVegaDev&theme=tokyonight" alt="Sebastian Torres repositories per language" />
 
 <br/>
 <br/>

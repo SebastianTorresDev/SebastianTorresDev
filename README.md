@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C08457&center=true&vCenter=true&width=720&lines=Building+full+stack+web+applications;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;Learning+step+by+step%2C+every+day;Open+to+my+first+opportunity+in+tech" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C08457&center=true&vCenter=true&width=720&lines=Building+full+stack+web+applications;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB;Learning+step+by+step%2C+every+day;Open+to+my+first+opportunity+in+tech" alt="Typing animation" />
 
 <br/>
 <br/>
@@ -47,7 +47,7 @@ I am a **Systems Engineering student from Peru** focused on building useful full
 
 * Currently building **DevJudge**
 * Built **UniChat**, a full stack university platform with realtime chat, admin tools, AI assistance and voice features
-* Learning frontend structure, backend architecture, authentication, databases and TypeScript
+* Learning frontend structure, backend architecture, authentication, SQL and NoSQL databases, TypeScript and testing
 * Growing toward my **first professional opportunity in tech**
 
 ---
@@ -77,6 +77,7 @@ I am a **Systems Engineering student from Peru** focused on building useful full
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
 
 ### Auth & Security
 
@@ -109,6 +110,18 @@ I am a **Systems Engineering student from Peru** focused on building useful full
 ![Lucide](https://img.shields.io/badge/Lucide-0f172a?style=for-the-badge)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-0f172a?style=for-the-badge)
 ![Recharts](https://img.shields.io/badge/Recharts-0f172a?style=for-the-badge)
+
+### Testing & Quality
+
+![Vitest](https://img.shields.io/badge/Vitest-0f172a?style=for-the-badge\&logo=vitest\&logoColor=6E9F18)
+![Supertest](https://img.shields.io/badge/Supertest-0f172a?style=for-the-badge)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-0f172a?style=for-the-badge\&logo=testinglibrary\&logoColor=E33332)
+![jest-dom](https://img.shields.io/badge/jest--dom-0f172a?style=for-the-badge)
+![user-event](https://img.shields.io/badge/user--event-0f172a?style=for-the-badge)
+![jsdom](https://img.shields.io/badge/jsdom-0f172a?style=for-the-badge)
+![Playwright Basics](https://img.shields.io/badge/Playwright_Basics-0f172a?style=for-the-badge\&logo=playwright\&logoColor=2EAD33)
+![Mocking](https://img.shields.io/badge/Mocking-0f172a?style=for-the-badge)
+![Test Data](https://img.shields.io/badge/Test_Data-0f172a?style=for-the-badge)
 
 ### Tools
 
@@ -222,6 +235,8 @@ const sebastian = {
     "Backend architecture",
     "Authentication and security",
     "PostgreSQL database design",
+    "MongoDB document modeling",
+    "Testing and quality assurance",
     "Realtime communication",
     "Reusable frontend components"
   ],

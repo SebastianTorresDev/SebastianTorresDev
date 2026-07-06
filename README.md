@@ -29,15 +29,9 @@
 <br/>
 <br/>
 
-<a href="https://manasiness.tech/">
-  <img src="https://img.shields.io/badge/Manasiness-Live-C08457?style=for-the-badge&logo=vercel&logoColor=white" alt="Manasiness live website" />
-</a>
-<a href="https://devjudge.site/">
-  <img src="https://img.shields.io/badge/DevJudge-Live-C08457?style=for-the-badge&logo=vercel&logoColor=white" alt="DevJudge live website" />
-</a>
-<a href="https://unichat.site/">
-  <img src="https://img.shields.io/badge/UniChat-Live-C08457?style=for-the-badge&logo=vercel&logoColor=white" alt="UniChat live website" />
-</a>
+<img src="https://img.shields.io/badge/Manasiness-Initial%20Version%20Ready-C08457?style=for-the-badge" alt="Manasiness initial version ready" />
+<img src="https://img.shields.io/badge/DevJudge-Initial%20Version%20Ready-C08457?style=for-the-badge" alt="DevJudge initial version ready" />
+<img src="https://img.shields.io/badge/UniChat-Initial%20Version%20Ready-C08457?style=for-the-badge" alt="UniChat initial version ready" />
 
 <br/>
 <br/>
@@ -58,10 +52,11 @@ I am a **Systems Engineering student from Peru** focused on building useful full
 
 I learn by building complete projects, improving them step by step, and understanding how each part works instead of only memorizing tools.
 
-* Built **Manasiness**, a business management dashboard for small stores
-* Built **DevJudge**, a coding judge platform for JavaScript and SQL challenges
-* Built **UniChat**, a university learning hub with realtime chat, admin tools, AI assistance, and voice playback
-* Currently improving deployment, AWS fundamentals, testing, and production workflows
+* Built the initial version of **Manasiness**, a business management dashboard for small stores
+* Built the initial version of **DevJudge**, a coding judge platform for JavaScript and SQL challenges
+* Built the initial version of **UniChat**, a university learning hub with realtime chat, admin tools, AI assistance, and voice playback
+* Continuously improving these projects with stronger architecture, better security, scalability, maintainability, and additional features
+* These projects are stable portfolio milestones, but their final product versions are still evolving
 * Growing toward my **first professional opportunity in tech**
 
 ---
@@ -189,17 +184,18 @@ I learn by building complete projects, improving them step by step, and understa
         seed scripts, Docker Compose, nginx frontend image, and developer documentation.
       </p>
       <p>
+        This is an initial complete version and a stable portfolio milestone. The final
+        product version is still evolving with additional features, stronger security,
+        and production-focused improvements.
+      </p>
+      <p>
         <strong>Stack:</strong> React, Vite, TypeScript, React Router, Axios, Recharts,
         React Toastify, Lucide React, Node.js, Express, PostgreSQL, Resend, Docker,
         Docker Compose, nginx.
       </p>
       <p>
-        <a href="https://manasiness.tech/">
-          <img src="https://img.shields.io/badge/Live%20Website-C08457?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Manasiness website" />
-        </a>
-        <a href="https://github.com/SebastianVegaDev/Manasiness">
-          <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Manasiness repository" />
-        </a>
+        <img src="https://img.shields.io/badge/Initial%20Version-Ready-C08457?style=for-the-badge" alt="Manasiness initial version ready" />
+        <img src="https://img.shields.io/badge/Final%20Product-Evolving-111827?style=for-the-badge" alt="Manasiness final product evolving" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -216,17 +212,18 @@ I learn by building complete projects, improving them step by step, and understa
         long-form documentation.
       </p>
       <p>
+        This is an initial complete version and a stable portfolio milestone. The final
+        product version is still evolving with additional features, stronger security,
+        and production-focused improvements.
+      </p>
+      <p>
         <strong>Stack:</strong> React, Vite, TypeScript, React Router, Socket.IO Client,
         Node.js, Express, Socket.IO, PostgreSQL, JWT, bcrypt, httpOnly cookies, Helmet,
         Docker, Docker Compose, nginx.
       </p>
       <p>
-        <a href="https://devjudge.site/">
-          <img src="https://img.shields.io/badge/Live%20Website-C08457?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit DevJudge website" />
-        </a>
-        <a href="https://github.com/SebastianVegaDev/DevJudge">
-          <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View DevJudge repository" />
-        </a>
+        <img src="https://img.shields.io/badge/Initial%20Version-Ready-C08457?style=for-the-badge" alt="DevJudge initial version ready" />
+        <img src="https://img.shields.io/badge/Final%20Product-Evolving-111827?style=for-the-badge" alt="DevJudge final product evolving" />
       </p>
     </td>
   </tr>
@@ -245,17 +242,18 @@ I learn by building complete projects, improving them step by step, and understa
         PostgreSQL volumes, and persisted uploads.
       </p>
       <p>
+        This is an initial complete version and a stable portfolio milestone. The final
+        product version is still evolving with additional features, stronger security,
+        and production-focused improvements.
+      </p>
+      <p>
         <strong>Stack:</strong> React, Vite, TypeScript, React Router, FullCalendar,
         Socket.IO Client, Node.js, Express, Socket.IO, PostgreSQL, Google OAuth,
         OpenAI API, Amazon Polly, Multer, Docker, Docker Compose, nginx.
       </p>
       <p>
-        <a href="https://unichat.site/">
-          <img src="https://img.shields.io/badge/Live%20Website-C08457?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit UniChat website" />
-        </a>
-        <a href="https://github.com/SebastianVegaDev/UniChat">
-          <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View UniChat repository" />
-        </a>
+        <img src="https://img.shields.io/badge/Initial%20Version-Ready-C08457?style=for-the-badge" alt="UniChat initial version ready" />
+        <img src="https://img.shields.io/badge/Final%20Product-Evolving-111827?style=for-the-badge" alt="UniChat final product evolving" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -265,9 +263,9 @@ I learn by building complete projects, improving them step by step, and understa
         documented, deployable applications.
       </p>
       <p>
-        <strong>Learning path:</strong> scalable backend modules, frontend architecture,
-        PostgreSQL data modeling, secure authentication, Docker workflows, AWS fundamentals,
-        deployment, testing, and production-ready development habits.
+        <strong>Current focus:</strong> refining existing applications, expanding features,
+        improving maintainability, strengthening security, learning cloud fundamentals,
+        and building better production-ready development habits.
       </p>
       <p>
         <strong>Goal:</strong> become a strong junior developer capable of understanding,
@@ -281,11 +279,19 @@ I learn by building complete projects, improving them step by step, and understa
 
 ## Project Scope
 
-| Project        | Main Area               | Backend              | Database   | Realtime  | AI / Voice            | Docker | Status       |
-| -------------- | ----------------------- | -------------------- | ---------- | --------- | --------------------- | ------ | ------------ |
-| **Manasiness** | Business management     | Express + TypeScript | PostgreSQL | —         | Resend email          | Yes    | Completed v1 |
-| **DevJudge**   | Coding judge platform   | Express + TypeScript | PostgreSQL | Socket.IO | —                     | Yes    | Completed v1 |
-| **UniChat**    | University learning hub | Express + TypeScript | PostgreSQL | Socket.IO | OpenAI + Amazon Polly | Yes    | Completed v1 |
+| Project        | Main Area               | Backend              | Database   | Realtime  | AI / Voice            | Docker | Status                                    |
+| -------------- | ----------------------- | -------------------- | ---------- | --------- | --------------------- | ------ | ----------------------------------------- |
+| **Manasiness** | Business management     | Express + TypeScript | PostgreSQL | —         | Resend email          | Yes    | Initial v1 ready • Final product evolving |
+| **DevJudge**   | Coding judge platform   | Express + TypeScript | PostgreSQL | Socket.IO | —                     | Yes    | Initial v1 ready • Final product evolving |
+| **UniChat**    | University learning hub | Express + TypeScript | PostgreSQL | Socket.IO | OpenAI + Amazon Polly | Yes    | Initial v1 ready • Final product evolving |
+
+---
+
+## Project Status Note
+
+These projects represent stable milestones in my learning journey. They are complete enough to demonstrate full stack architecture, database design, authentication flows, frontend structure, backend modules, documentation, and deployment-oriented workflows.
+
+However, I continue refining them before considering them final product releases. My current improvement areas include adding more features, strengthening security, improving scalability, polishing architecture, and making each project easier to maintain and extend.
 
 ---
 
@@ -322,11 +328,11 @@ const sebastian = {
     "Realtime communication",
     "Clean documentation"
   ],
-  completedProjects: ["Manasiness", "DevJudge", "UniChat"],
-  liveProjects: {
-    manasiness: "https://manasiness.tech/",
-    devjudge: "https://devjudge.site/",
-    unichat: "https://unichat.site/"
+  projectMilestones: ["Manasiness", "DevJudge", "UniChat"],
+  projectStatus: {
+    manasiness: "Initial v1 ready, final product evolving",
+    devjudge: "Initial v1 ready, final product evolving",
+    unichat: "Initial v1 ready, final product evolving"
   },
   nextGoal: "Get my first opportunity in tech",
   mindset: "Learn, build, understand, improve, repeat"

@@ -65,7 +65,7 @@ I learn by building complete projects, improving them step by step, and understa
 
 <div align="center">
 
-### Languages & Web Fundamentals
+### Languages & Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge\&logo=html5\&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge\&logo=css3\&logoColor=1572B6)
@@ -93,29 +93,22 @@ I learn by building complete projects, improving them step by step, and understa
 
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge\&logo=express\&logoColor=ffffff)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-0f172a?style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-0f172a?style=for-the-badge\&logo=socketdotio\&logoColor=ffffff)
+![Multer](https://img.shields.io/badge/Multer-0f172a?style=for-the-badge)
 
-### Database & Persistence
+### Database & Backend Services
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
 ![node-postgres](https://img.shields.io/badge/node--postgres-0f172a?style=for-the-badge)
-![Database Design](https://img.shields.io/badge/Database_Design-0f172a?style=for-the-badge)
-![Schema Files](https://img.shields.io/badge/Schema_Files-0f172a?style=for-the-badge)
-![Seed Scripts](https://img.shields.io/badge/Seed_Scripts-0f172a?style=for-the-badge)
-![Multer](https://img.shields.io/badge/Multer-0f172a?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
 
 ### Authentication & Security
 
-![JWT](https://img.shields.io/badge/JWT-0f172a?style=for-the-badge\&logo=jsonwebtokens\&logoColor=ffffff)
+![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-0f172a?style=for-the-badge\&logo=jsonwebtokens\&logoColor=ffffff)
 ![bcrypt](https://img.shields.io/badge/bcrypt-0f172a?style=for-the-badge)
-![httpOnly Cookies](https://img.shields.io/badge/httpOnly_Cookies-0f172a?style=for-the-badge)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-0f172a?style=for-the-badge\&logo=google\&logoColor=4285F4)
-![RBAC](https://img.shields.io/badge/RBAC-0f172a?style=for-the-badge)
-![CORS](https://img.shields.io/badge/CORS-0f172a?style=for-the-badge)
+![cors](https://img.shields.io/badge/cors-0f172a?style=for-the-badge)
 ![Helmet](https://img.shields.io/badge/Helmet-0f172a?style=for-the-badge)
-![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-0f172a?style=for-the-badge)
+![express-rate-limit](https://img.shields.io/badge/express--rate--limit-0f172a?style=for-the-badge)
 
 ### AI, Voice & External Services
 
@@ -144,24 +137,20 @@ I learn by building complete projects, improving them step by step, and understa
 ![nginx](https://img.shields.io/badge/nginx-0f172a?style=for-the-badge\&logo=nginx\&logoColor=009639)
 ![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge\&logo=vercel\&logoColor=ffffff)
 ![Render](https://img.shields.io/badge/Render-0f172a?style=for-the-badge\&logo=render\&logoColor=46E3B7)
-![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
 
-### Quality & Workflow
+### Testing & Code Quality
 
-![TypeScript Type Checking](https://img.shields.io/badge/TypeScript_Type_Checking-0f172a?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![Playwright](https://img.shields.io/badge/Playwright-0f172a?style=for-the-badge\&logo=playwright\&logoColor=2EAD33)
 ![ESLint](https://img.shields.io/badge/ESLint-0f172a?style=for-the-badge\&logo=eslint\&logoColor=4B32C3)
-![Playwright Basics](https://img.shields.io/badge/Playwright_Basics-0f172a?style=for-the-badge\&logo=playwright\&logoColor=2EAD33)
-![Manual QA](https://img.shields.io/badge/Manual_QA_Checklists-0f172a?style=for-the-badge)
-![Build Validation](https://img.shields.io/badge/Build_Validation-0f172a?style=for-the-badge)
 
-### Tools
+### Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge\&logo=github\&logoColor=ffffff)
 ![npm](https://img.shields.io/badge/npm-0f172a?style=for-the-badge\&logo=npm\&logoColor=CB3837)
 ![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
 ![DBeaver](https://img.shields.io/badge/DBeaver-0f172a?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0f172a?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
 
 </div>
 
@@ -281,9 +270,9 @@ I learn by building complete projects, improving them step by step, and understa
 
 | Project        | Main Area               | Backend              | Database   | Realtime  | AI / Voice            | Docker | Status                                    |
 | -------------- | ----------------------- | -------------------- | ---------- | --------- | --------------------- | ------ | ----------------------------------------- |
-| **Manasiness** | Business management     | Express + TypeScript | PostgreSQL | —         | Resend email          | Yes    | Initial v1 ready • Final product evolving |
-| **DevJudge**   | Coding judge platform   | Express + TypeScript | PostgreSQL | Socket.IO | —                     | Yes    | Initial v1 ready • Final product evolving |
-| **UniChat**    | University learning hub | Express + TypeScript | PostgreSQL | Socket.IO | OpenAI + Amazon Polly | Yes    | Initial v1 ready • Final product evolving |
+| **Manasiness** | Business management     | Express + TypeScript | PostgreSQL | â€”         | Resend email          | Yes    | Initial v1 ready â€¢ Final product evolving |
+| **DevJudge**   | Coding judge platform   | Express + TypeScript | PostgreSQL | Socket.IO | â€”                     | Yes    | Initial v1 ready â€¢ Final product evolving |
+| **UniChat**    | University learning hub | Express + TypeScript | PostgreSQL | Socket.IO | OpenAI + Amazon Polly | Yes    | Initial v1 ready â€¢ Final product evolving |
 
 ---
 
@@ -311,7 +300,7 @@ However, I continue refining them before considering them final product releases
 
 ---
 
-## What I’m Learning
+## What Iâ€™m Learning
 
 ```js
 const sebastian = {
@@ -343,7 +332,7 @@ const sebastian = {
 
 <div align="center">
 
-### Still learning, still building 🚀
+### Still learning, still building ðŸš€
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C08457,50:1f2937,100:111827" alt="Footer wave" />
 
